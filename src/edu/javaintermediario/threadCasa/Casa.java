@@ -1,5 +1,13 @@
 package edu.javaintermediario.threadCasa;
-
+/**
+* A classe Casa tem uma lista de comodos,
+* uma lista de tarefa para o comodo.
+*   
+* @author  	 Marilainny Martins da Silva
+* @version 	 1.0
+* @since     04.06.2022
+* @implNote  Exemplo			 
+*/
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

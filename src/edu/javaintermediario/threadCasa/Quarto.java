@@ -1,5 +1,13 @@
 package edu.javaintermediario.threadCasa;
-
+/**
+* A classe Quarto implementa as atividades que serão realizada
+* Criar uma lista de atividades a ser executada.
+*   
+* @author  	 Marilainny Martins da Silva
+* @version 	 1.0
+* @since     04.06.2022
+* @implNote  Exemplo			 
+*/
 import java.util.Arrays;
 import java.util.List;
 

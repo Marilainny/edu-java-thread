@@ -1,6 +1,6 @@
 package edu.javaintermediario.thread;
 /**
-* A classe BarraDeCarregamento tem o objetivo de apresentar o uso de Threads 
+* A classe BarraDeCarregamentoRun tem o objetivo de apresentar o uso de Threads 
 *   
 * @author  	 Marilainny Martins da Silva
 * @version 	 1.0
